@@ -8,14 +8,14 @@ import About from "./About/page"
 
 
 
-export default function Home (){
+export default function Home() {
 
-    return(
-        <div>
-          <Hoome/>
-          <About/>
-          <Contact/>
-          
-        </div>
-    )
+  return (
+    <div>
+      <Hoome />
+      <About />
+      <Contact />
+
+    </div>
+  )
 }
