@@ -16,7 +16,7 @@ const page = () => {
       {/* /* Image */}
 
       <div className='flex justify-end  ml-56 '>
-        <Image src={'/Html.png'} alt={'profile'} width={400} height={400}
+        <Image src={'/Html.jpg'} alt={'profile'} width={400} height={400}
 
           className=' border-4 border-red-500 '
         ></Image>
