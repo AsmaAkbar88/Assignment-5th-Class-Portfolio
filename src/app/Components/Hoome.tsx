@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Image from 'next/image'
-import Link from 'next/link'
+
 
 
 const Hoome = () => {
@@ -9,7 +9,7 @@ const Hoome = () => {
   return (
     <div className=' bg-sky-200 p-28 flex items-center '>
       <div className='  max-w-[500px] ml-[-30px] '>
-        <h1 className='font-bold mb-4 text-5xl'>Hi, I'm Asma Rj! </h1>
+        <h1 className='font-bold mb-4 text-5xl'>Hi, I &apos; m Asma Rj! </h1>
         <h2 className='text-4xl font-bold mb-2 text-red-400 animate-pulse' >FRONTENED WEB DEVELOPER.</h2>
         <p className='text-md mb-4 text-justify'>Welcome to my portfolio website! My name is <b>Asma,</b> and I really want to become an <b>AI</b> and <b>front-end developer</b>. I enjoy learning new technologies and using them in real life.
 
